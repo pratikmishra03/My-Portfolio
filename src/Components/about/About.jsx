@@ -32,7 +32,7 @@ const About = () => {
             <article className="about_card">
               <PiStudentDuotone className="about_icons" />
               <h5>Education</h5>
-              <small>B.tech(Final Year)</small>
+              <small>B.tech Gratuated</small>
             </article>
             <article className="about_card">
               <VscFolderLibrary className="about_icons" />

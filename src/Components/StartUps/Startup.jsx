@@ -3,6 +3,7 @@ import './startup.css'
 const Startup = () => {
   return (
     <section id='startup'>Startup</section>
+    
   )
 }
 
